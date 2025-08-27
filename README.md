@@ -1,12 +1,12 @@
-- 👋 Hi, I’m `@nivekalara237`
-- 👀 I’m interested in software development especially Backend Dev using java/springboot/quarkus and Font-end using Angular
-- 🌱 I’m currently 
-  * learning cleanCode in Java language
-  * learning Test Automation using selenium/Cucumber/Java
-  * programming bests practices
-  * also learning kotlin language in my free time
-- 💞️ I’m looking to collaborate on any opensource project
-- 📫 How to reach me .. kevinlactiokemta@gmail.com
+- 👋 Hi, I'm Kevin (aka [@nivekalara237](https://github.com/nivekalara237))  
+- 🎯 Passionate about full-stack development — building robust backends with **Java, Spring Boot, and Quarkus**, and dynamic frontends with **Angular**  
+- 🌱 Currently leveling up by:  
+  * Writing clean, maintainable code in Java  
+  * Mastering test automation with **Selenium, Cucumber, and Java**  
+  * Exploring programming best practices and design patterns  
+  * Learning **Kotlin, Kubernetes, OCI and Cloud infrastructure** in my free time to expand my skillset  
+- 🤝 Actively looking to contribute to **open-source projects** — let’s build something awesome together!  
+- 📧 Reach me at: [kevinlactiokemta@gmail.com](mailto:kevinlactiokemta@gmail.com)
 
 <!---
 nivekalara237/nivekalara237 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
